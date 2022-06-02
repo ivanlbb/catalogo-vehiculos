@@ -11,6 +11,7 @@ import es.ivan.marcas.modelo.Marca;
 @RestController
 public class MarcasController {
 
+	
 	@GetMapping("/marcas")
 	public ListaMarcas getMarcas() {
 		ListaMarcas result = new ListaMarcas();
