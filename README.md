@@ -1,5 +1,9 @@
 # catalogo-vehiculos
-Ejemplo de microservicios con Spring Boot. Se utiliza Spring Cloud Netflix Eureka para registrar los microservicios. Se ha utilizado Spring initialzr https://start.spring.io/
+Ejemplo de microservicios con Spring Boot. Se ha utilizado Spring initialzr https://start.spring.io/
+
+* Spring Cloud Netflix Eureka para registrar los microservicios. 
+
+* TraceId en los ficheros log con slfj.MDC
 
 * El directorio "eureka-server" contiene el microservicio que contiene el Eureka Server https://spring.io/projects/spring-cloud-netflix
 
