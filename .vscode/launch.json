@@ -1,0 +1,44 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-EurekaServerApplication<eureka-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "es.ivan.eurekaserver.EurekaServerApplication",
+            "projectName": "eureka-server",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-MarcasApplication<marcas>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "es.ivan.marcas.MarcasApplication",
+            "projectName": "marcas",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-ModelosApplication<modelos>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "es.ivan.modelos.ModelosApplication",
+            "projectName": "modelos",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-StockApplication<stock>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "es.ivan.stock.StockApplication",
+            "projectName": "stock",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

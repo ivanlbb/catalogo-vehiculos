@@ -1,0 +1,5 @@
+2025-06-21 09:22:28 [main] INFO  es.ivan.marcas.MarcasApplication - [] Starting MarcasApplication using Java 17.0.1 with PID 25816 (C:\TMP\catalogo-vehiculos\marcas\target\classes started by a943406 in C:\TMP\catalogo-vehiculos\marcas)
+2025-06-21 09:22:28 [main] DEBUG es.ivan.marcas.MarcasApplication - [] Running with Spring Boot v3.2.0, Spring v6.1.1
+2025-06-21 09:22:28 [main] INFO  es.ivan.marcas.MarcasApplication - [] No active profile set, falling back to 1 default profile: "default"
+2025-06-21 09:22:32 [main] DEBUG es.ivan.marcas.filter.TraceIdFilter - [] Filter 'traceIdFilter' configured for use
+2025-06-21 09:22:36 [main] INFO  es.ivan.marcas.MarcasApplication - [] Started MarcasApplication in 9.445 seconds (process running for 10.554)
