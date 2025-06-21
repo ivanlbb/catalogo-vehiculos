@@ -3,7 +3,7 @@ Ejemplo de microservicios con Spring Boot. Se ha utilizado Spring initialzr http
 
 * Spring Cloud Netflix Eureka para registrar los microservicios. 
 
-* TraceId en los ficheros log con slfj.MDC
+* TraceId en los ficheros log con slf4j.MDC
 
 * El directorio "eureka-server" contiene el microservicio que despliega el Eureka Server https://spring.io/projects/spring-cloud-netflix
 
