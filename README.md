@@ -5,7 +5,7 @@ Ejemplo de microservicios con Spring Boot. Se ha utilizado Spring initialzr http
 
 * TraceId en los ficheros log con slfj.MDC
 
-* El directorio "eureka-server" contiene el microservicio que contiene el Eureka Server https://spring.io/projects/spring-cloud-netflix
+* El directorio "eureka-server" contiene el microservicio que despliega el Eureka Server https://spring.io/projects/spring-cloud-netflix
 
 * El directorio "marcas" contiene el microservicio que gestiona las marcas de vehiculos
 
