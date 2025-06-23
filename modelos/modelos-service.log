@@ -1,5 +1,0 @@
-2025-06-21 09:22:28 [main] INFO  es.ivan.modelos.ModelosApplication - [] Starting ModelosApplication using Java 17.0.1 with PID 22692 (C:\TMP\catalogo-vehiculos\modelos\target\classes started by a943406 in C:\TMP\catalogo-vehiculos\modelos)
-2025-06-21 09:22:28 [main] DEBUG es.ivan.modelos.ModelosApplication - [] Running with Spring Boot v3.2.12, Spring v6.1.15
-2025-06-21 09:22:28 [main] INFO  es.ivan.modelos.ModelosApplication - [] No active profile set, falling back to 1 default profile: "default"
-2025-06-21 09:22:32 [main] DEBUG e.ivan.modelos.filter.TraceIdFilter - [] Filter 'traceIdFilter' configured for use
-2025-06-21 09:22:36 [main] INFO  es.ivan.modelos.ModelosApplication - [] Started ModelosApplication in 9.216 seconds (process running for 10.09)
